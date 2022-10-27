@@ -1,16 +1,30 @@
-# shopapp1
+# Shop App
 
-A new Flutter project.
+# This is flutter app using API
 
-## Getting Started
+## To run this project must connect to wifi and write pub get in terminal of android studio
 
-This project is a starting point for a Flutter application.
+# What user can do : 
 
-A few resources to get you started if this is your first Flutter project:
+- User can see the products in home page 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- User can add products to his favorites and see them in favorites page and can edit on it
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User can add products to his cart and see them in cart page and can edit on it
+
+- User can see his data in settings page and update on it 
+
+- User can signout from the app in any time and his data will be saved
+
+
+# Using in this app 
+
+- smooth_page_indicator
+- flutter_bloc
+- bloc
+- dio
+- fluttertoast
+- conditional_builder
+- shared_preferences
+- carousel_slider
+- cupertino_icons
