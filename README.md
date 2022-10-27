@@ -6,6 +6,10 @@
 
 # What user can do : 
 
+- User can login one time and don't need to ligin again until he logout from app
+
+- User can create new account 
+
 - User can see the products in home page 
 
 - User can add products to his favorites and see them in favorites page and can edit on it
